@@ -1,0 +1,329 @@
+.imagesection img{
+    box-shadow:chocolate 20px 20px;
+
+}
+
+.memberSection{
+    padding: 100px;
+     color: white;
+
+    
+}
+
+.memberSection h2{
+    font-weight:bold ;
+    font-size: 24px;
+    text-align: center;
+    color: rgb(170, 153, 153);
+}
+
+.memberSection .border{
+    background-color:green;
+    height: 7px!important;
+    width: 50px;
+    margin: 10px 2px;
+
+}
+
+.memberSection p{
+    font-weight: 900;
+    font-size: 24px;
+    text-align: center;
+    color:orange;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.OurExcellence span{
+    color: orange;
+    text-decoration: underline;
+    text-transform:lowercase;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+
+
+
+}
+
+.OurExcellence img{
+    box-shadow: rgb(175, 103, 52) 10px -10px;
+    color:green;
+    width: 70%;
+    height: 100%;
+
+}
+
+.OurExcellence img:hover{
+    transform: scale(1.5);
+    transition: 0.7s linear;
+    border-radius: 50%;
+
+}
+.newssection{
+    background-color: darkgrey;
+}
+
+.newsSection h2 span{
+    color: chocolate !important;
+}
+.newsSection img{
+    height: 150px;
+}
+
+.newsSection .card p{
+    text-align: right !important;
+    font-size: 14px;
+
+}
+
+.newsSection .row{
+    max-width: 90% !important;
+}
+
+.newsSection img:hover{
+    opacity: 0.5;
+    cursor: pointer;
+    transition: scale(1.5);
+   
+    transition: 0.5s linear;
+}
+
+.newsSection .card{
+    transition: 0.5 linear;
+}
+
+.newsSection .card:hover{
+    box-shadow:0 0 10px chocolate;
+    cursor: progress;
+    transition: 0.7s linear;
+    margin-bottom: 10px;
+
+}
+
+footer{
+    color: khaki;
+
+}
+
+footer h5{
+    color:red;
+    text-transform: uppercase;
+    font-weight: 800;
+
+}
+
+footer p span{
+    font-weight: 300;
+
+}
+
+footer ul.social li{
+    display: inline-block !important;
+    flood-opacity: 20%;
+    margin-right: 10px;
+    width: 50px;
+    font: size 28px;
+    border: 1px solid red;
+    border-radius: 40%;
+    
+
+}
+
+
+footer ul li a i{
+    position: relative;
+    margin: 10px 10px;
+    color:orange;
+    
+}
+
+footer ul li:hover{
+    border-radius: 50%;
+    margin-right: 10px;
+
+}
+
+footer ul.quick-links li{
+    list-style-type: none;
+    color:khaki;
+}
+
+.bannersection{
+    background-image: url('../images/7.jpg');
+    color: chocolate;
+
+}
+.accomplishment{
+    box-shadow: 10px 10px red;
+
+}
+.ourhistory{
+    background-image: url(".../images/.jpg7");
+    padding: 20px;
+    color: crimson;
+    min-height: 80px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.awesomesection{
+    color:orange;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: bolder;
+    background-image: url(../images/flower2.jpg);
+
+}
+
+
+.educationsection{
+    color:black;
+    font-size: 12px;
+    margin-bottom: 15px;
+    
+    
+}
+.educationsection h1{
+    font-size: 18px;
+    color: chocolate;
+}
+.educationsection h2{
+    font-size: 12px;
+    color: chocolate;
+}
+
+.educationsection h1 h2 p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+.aboutmesection{
+    background-color: black;
+}
+.aboutmesection .card{
+    background-color:black;
+    color: aqua;
+}
+
+.funnymomentsection {
+    
+    background-color:white;
+    font-weight: 900px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+.backgroundsection{
+        background-color:lightgrey;
+
+}
+.aboutmesection{
+    background-color: white;
+    
+    
+}
+.familysection{
+    background-color:lightcyan;
+
+}
+
+.educationsection img{
+    height: 100px;
+
+}
+
+.educationsection h1 h2{
+    font-size: 14px;
+}
+.careersection ul{
+    list-style: decimal-leading-zero;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+.careersection{
+    background-image: url(../images/floweer4.jpg);
+    background-color: lightskyblue;
+    margin-top: 10px;
+}
+.careersection h1{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate;
+
+}
+.careersection p{
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.aboutmesection{
+    color: chocolate;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.careersection .card:hover{
+    box-shadow:0 0 10px crimson;
+    cursor: progress;
+    transition: 0.7s linear;
+    margin-bottom: 10px;
+
+}
+.educationsection img:hover{
+    opacity: 0.5;
+    cursor: pointer;
+    transition: scale(1.5);
+   
+    transition: 0.5s linear;
+}
+.awesomesection h2.hover{
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.aboutmesection{
+    font-size: 18px;
+    background-image: url(../images/bike5.jpg);
+
+}
+
+.learnmesection{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate;
+    font-style: italic;
+}
+.funnymomentsection h1{
+    font-size: 18px;
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.backgroundsection h1{
+    font-size: 18px;
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+.groundsection h3{
+    font-size: 18px;
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.listsection p{
+    text-decoration: underline;
+
+}
+
+.designsection ol{
+    list-style-type: decimal-leading-zero;
+    list-style: decimal-leading-zero;
+}
+
+
+
